@@ -5,7 +5,7 @@ private:
     int8_t _max;
     int8_t _min;
     int8_t _size;
-    size_t _max_size;
+    size_t _max_size;//pfpfpfpf
     T* _array;
     T* _id_array;
     size_t _count;
