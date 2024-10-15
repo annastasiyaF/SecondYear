@@ -1,0 +1,3 @@
+C:/cprojects/3 sem/SecondYear/build/CMakeFiles/CMakeScratch/TryCompile-hlzjmw/CMakeFiles/cmTC_0360c.dir
+C:/cprojects/3 sem/SecondYear/build/CMakeFiles/CMakeScratch/TryCompile-hlzjmw/CMakeFiles/edit_cache.dir
+C:/cprojects/3 sem/SecondYear/build/CMakeFiles/CMakeScratch/TryCompile-hlzjmw/CMakeFiles/rebuild_cache.dir
